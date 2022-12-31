@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.heading-top{
+  background-image: url(../img/img/mv.jpg);
+  background-size: cover;
+  background-position: bottom center;
+  height: 400px;
+}
+
+.heading-text{
+  padding: 20px;
+}
+
+.main-box{
+  width: 840px;
+  margin: 50px 0px 0px 100px;
+ 
+}
+
+.main-item{
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid #f7f7f7;
+}
+
+p{
+  display: block;
+}
